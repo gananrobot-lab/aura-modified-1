@@ -19,6 +19,8 @@ AURA is a **voice-activated AI assistant** for your computer, similar to Siri or
 - Shows text responses in the log window
 - Can **perform actions** on your computer
 
+#To make AURA work need gemini api key
+
 ## What Can AURA Do?
 
 | Action | What it does |
